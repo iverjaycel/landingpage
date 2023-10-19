@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     font-family: 'Open Sans', sans-serif;
 }
@@ -49,10 +48,11 @@ main{
 }
 
 .hero-img{
-    max-width: 670px;
+    max-width: 700px;
     height: auto;
+    background-color: white; 
     /* makes the picture circle */
-    /* border-radius: 60%;  */
+    border-radius: 60%; 
 
 }
 .content-left{
@@ -99,6 +99,6 @@ main p{
     outline: none;
     border: none;
     font-weight: 700;
-    text-transform: uppercase;
+    /* text-transform: lowercase; */
     border-radius: 50px;
 }
