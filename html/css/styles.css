@@ -51,6 +51,8 @@ main{
 .hero-img{
     max-width: 670px;
     height: auto;
+    /* makes the picture circle */
+    /* border-radius: 60%;  */
 
 }
 .content-left{
