@@ -18,7 +18,7 @@ header{
 ul{
     display: flex;
     list-style-type: none;
-    align-items: center;
+    align-items: right;
 }
 
 ul li a{
@@ -83,7 +83,7 @@ main p{
 .cta{
     text-decoration: none;
     padding:15px 30px;
-    background-color: #CF9FFF;
+    background-color: #133b4f;
     color: white;
     outline: none;
     border: none;
@@ -94,7 +94,7 @@ main p{
 
 .signup-btn{
     padding: 10px 20px;
-    background-color: #CF9FFF;
+    background-color: #133b4f;
     color: white;
     outline: none;
     border: none;
